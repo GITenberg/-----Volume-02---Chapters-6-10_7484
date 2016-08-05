@@ -1,0 +1,29 @@
+_repo: '-----Volume-02---Chapters-6-10_7484'
+_version: 0.0.1
+alternative_title: 'Guanzi — Volume 02 : Chapters 6-10'
+creator:
+  author:
+    agent_name: Guan, Zhong
+    alias: 管仲
+    deathdate: -645
+    gutenberg_agent_id: '2445'
+    url: http://www.gutenberg.org/2009/agents/2445
+    wikipedia:
+    - http://zh.wikipedia.org/wiki/%E7%AE%A1%E4%BB%B2
+    - http://en.wikipedia.org/wiki/Guan_Zhong
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7484'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Chinese classics'
+- !lcsh 'Philosophy, Chinese'
+- GITenberg
+title: '管子 — Volume 02 : Chapters 6-10'
+url: http://www.gutenberg.org/ebooks/7484
